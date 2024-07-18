@@ -210,3 +210,7 @@
   cursor: pointer;
   border-radius: 8px;
 }
+
+.grid-container {
+  display:grid;
+}
